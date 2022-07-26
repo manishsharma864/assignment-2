@@ -52,7 +52,7 @@ For this assignment, assume that the matrix supplied is always invertible.
 
 In order to complete this assignment, you must do the following:
 
-Fork the GitHub repository containing the stub R files at https://github.com/rdpeng/ProgrammingAssignment2 to create a copy under your own account.
+Fork the GitHub repository containing the stub R files to create a copy under your own account.
 Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
 Edit the R file contained in the git repository and place your solution in that file (please do not rename the file).
 Commit your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
@@ -65,8 +65,3 @@ Click on the “?? commits” link where ?? is the number of commits you have in
 
 You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the “copy to clipboard” button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.
 
-A valid submission will look something like (this is just an example!)
-
-https://github.com/rdpeng/ProgrammingAssignment2
-
-7c376cc5447f11537f8740af8e07d6facc3d9645
